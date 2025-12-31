@@ -48,4 +48,4 @@ Responsive Design | API Integration | Web Performance | Problem Solving
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasib149&theme=radical)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hasib149&combine_all_yearly_contributions=true)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=hasib149&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
