@@ -42,7 +42,8 @@ Responsive Design | API Integration | Web Performance | Problem Solving
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasib149)
+### Contributions & General Stats
+![Hasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibshrabon&show_icons=true&theme=radical)
 
 
 
