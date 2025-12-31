@@ -1,4 +1,3 @@
-![Banner](https://i.ibb.co.com/VWMBBtpz/1280-SIZE.png)
-
+![Banner](https://i.ibb.co/s9Z6BBqf/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png)
 
 dgsd
