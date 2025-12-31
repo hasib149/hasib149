@@ -7,3 +7,8 @@ Hi! I’m **Hasib Ahmed Shrabon**, a passionate **Meran Steak Developer** .
 I love creating interactive and responsive web applications with modern technologies.  
 I enjoy learning new tools and frameworks to improve my skills every day.  
 My goal is to build high-quality projects that make a real impact in the tech world.
+### Current Activities
+- Exploring **Next.js** to build modern web applications.  
+- Working on a **Recipe Finder App** project to enhance my frontend skills.  
+- Learning advanced **JavaScript** concepts and best practices.  
+- Contributing to open-source projects on GitHub.  
