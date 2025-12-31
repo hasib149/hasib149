@@ -40,10 +40,16 @@ Responsive Design | API Integration | Web Performance | Problem Solving
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasib-shrabon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
-### GitHub Stats
+
 
 ### Contributions & General Stats
 ![Hasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasib149&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib149&layout=compact&theme=radical)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasib149&theme=radical)
 
 
 
