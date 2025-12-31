@@ -41,3 +41,11 @@ Responsive Design | API Integration | Web Performance | Problem Solving
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
+### GitHub Stats
+
+![Hasib's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasib-shrabon&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-shrabon&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasib-shrabon&theme=radical)
+
