@@ -51,7 +51,7 @@ Responsive Design | API Integration | Web Performance | Problem Solving
 
 ### 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib149&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib149&theme=radical)
 
 ---
 
