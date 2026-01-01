@@ -44,7 +44,8 @@ Responsive Design | API Integration | Web Performance | Problem Solving
 
 ## 📊 Contributions & General Stats
 
-![Hasib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasib149&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hasib149&show_icons=true)
+
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib149&layout=compact&theme=radical)
